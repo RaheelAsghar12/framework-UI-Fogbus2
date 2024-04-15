@@ -1,6 +1,6 @@
 # ossd
 
-A new Flutter project.
+A new Flutter project. Which is a framework for FogBus2.
 
 ## Getting Started
 
